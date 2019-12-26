@@ -6,7 +6,7 @@
 
 不废话，直接上代码，首先是pom.xml
 ```xml
-		<dependency>
+	<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-integration</artifactId>
         </dependency>
